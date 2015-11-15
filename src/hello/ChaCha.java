@@ -1,12 +1,10 @@
+package hello;
 
-//chachacha
-//dalsi radek
+public class ChaCha {
 
-//a jeste jeden radek
+	public static void main(String[] args) {
+		System.out.println("muck ChaCha");
 
-// eclipse radek
+	}
 
-//new github radek
-
-//new eclipse
-//new new github
+}
