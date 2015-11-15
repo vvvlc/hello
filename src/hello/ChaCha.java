@@ -7,5 +7,10 @@ public class ChaCha {
 		System.out.println("muck ChaCha");
 
 	}
+	
+		public static void main(String[] args) {
+		System.out.println("muck ChaCha");
+
+	}
 
 }
