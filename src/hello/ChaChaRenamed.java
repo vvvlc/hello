@@ -1,6 +1,6 @@
 package hello;
 
-public class ChaCha {
+public class ChaChaRenamed {
 	public static void main3(String[] args) {
 		System.out.println("muck ChaCha");
 

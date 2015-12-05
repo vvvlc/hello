@@ -1,6 +1,6 @@
-package hello;
+package hello.move;
 
-public class Hallo {
+public class HalloRenamed {
 
 	public static void main(String[] args) {
 		System.out.println("muck");
